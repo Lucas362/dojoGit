@@ -1,2 +1,2 @@
 # dojoGit
-Dojo de Git, teste
+Dojo de Git
